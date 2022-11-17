@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Python refactorings and simplifications (#7549)

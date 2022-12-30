@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update TFLite Docs images (#8605)

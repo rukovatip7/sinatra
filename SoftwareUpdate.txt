@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)

@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Updated SQL Query Plot Code (#8120)

@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

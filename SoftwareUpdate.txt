@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)

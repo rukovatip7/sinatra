@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add KaTeX support + updates to YOLOv9 model page (#8531)

@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)

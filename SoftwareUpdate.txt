@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

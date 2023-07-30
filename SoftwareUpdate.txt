@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Replace onnx2tf usage from CLI to Python (#8429)

@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)

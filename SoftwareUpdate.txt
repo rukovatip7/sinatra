@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Add docs guide terminal images (#8819)

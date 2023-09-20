@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+TensorRT FP16 export with dynamic=True (#7870)

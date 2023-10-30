@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)

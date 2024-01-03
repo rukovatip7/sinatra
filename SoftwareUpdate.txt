@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Avoid creating -hub dir without processing images (#8334)

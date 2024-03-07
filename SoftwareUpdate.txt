@@ -1,1 +1,1 @@
-example Google Colab
+Add docstrings to new HUB functions (#7576)

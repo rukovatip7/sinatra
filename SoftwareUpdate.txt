@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Move Explorer tests to scheduled CI (#8305)

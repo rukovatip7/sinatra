@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add PR Summary step to Ultralytics Actions (#7675)
